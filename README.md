@@ -1,1 +1,1 @@
-# BlazorChat
+.NET Blazor Chat App using SignalR
